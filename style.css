@@ -80,3 +80,8 @@ body{
 	font-size: 22px;
 	font-weight: bold;
 }
+
+.ourservices-section{
+	float:left
+	display:flex
+}
