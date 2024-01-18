@@ -73,3 +73,10 @@ body{
 
 .instructions h1{
 	font: 16px sans-serif normal;
+}
+
+#receipe-1, #receipe-2, #receipe-3{
+	font-family: sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+}
